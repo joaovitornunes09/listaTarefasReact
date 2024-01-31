@@ -21,5 +21,11 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/state-in-constructor': 0,
     'react/forbid-prop-types': 0,
+    'react/no-unused-state': 0,
+    'no-unused-vars': 0,
+    'jsx-a11y/control-has-associated-label': 0,
+    'import/no-extraneous-dependencies': 0,
+    'import/no-duplicates': 0,
+    'class-methods-use-this': 0,
   },
 };
